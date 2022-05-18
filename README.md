@@ -1,5 +1,5 @@
 # ANÁLISIS DE DATOS DE ESTRUCTURA INTERNA DE NANOPARTÍCULAS DE ORO: 🌕🌟🌕
-
+[ipynb](https://github.com/JosefinaCresta/EDA_NanoparticulasAu_TBDS/blob/master/src/EDA.ipynb)
 ![imagen_intro](img/imagen_intro.png)
 
 ---
@@ -26,7 +26,7 @@ Específicamente se busca calcular estadísticamente los siguientes valores y se
 - **Número de coordinación** de cada  átomo interno y de cada átomo superficial
 - Correlación de la  **energía total** con cantidad de átomos que componen la nanopartícula. Calculo de **energía media por átomo**
 - Correlación de energía con coordinación de átomos en bulk y superficiales
-- 
+
 ---
 ### Recursos utilizados
 
@@ -36,8 +36,8 @@ Específicamente se busca calcular estadísticamente los siguientes valores y se
      * Numpy: especializada en el cálculo numérico y el análisis de datos, especialmente para un gran volumen de datos.
      * Pandas: especializada en el manejo y análisis de estructuras de datos.
      * Matplotlib y Seaborn:: especializada en la creación de gráficos.
-     * Funciones propias: Para analisis estadísticos de normalidad, detección de outliers, cualculo de medias muestrales y correlaciones.
-
+     * Funciones propias: Para análisis estadísticos de normalidad, detección de outliers, cualculo de medias muestrales y correlaciones.
+3. Jupyter Nootebook: Para desarrollo de los análisis. [Notebook Pricipal](https://github.com/JosefinaCresta/EDA_NanoparticulasAu_TBDS/blob/master/src/EDA.ipynb)
 ---
 ### Presentación
 [Slides.com](https://slides.com/joficresta/copy-of-end)
