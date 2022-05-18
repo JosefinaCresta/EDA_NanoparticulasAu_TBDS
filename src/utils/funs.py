@@ -106,16 +106,18 @@ def Detectar_Outliers(data, col):
 
     #Comparación graficos de caja antes y despues de eliminar Outliers
     # ============================================================
-    plt.figure(figsize=(16,8))
-    plt.subplot(2,2,1)
-    sns.distplot(data[col])
-    plt.subplot(2,2,2)
-    sns.boxplot(data[col])
-    plt.subplot(2,2,3)
-    sns.distplot(df[col])
-    plt.subplot(2,2,4)
-    sns.boxplot(df[col])
-    plt.show()
+     if len>0:
+        #return df.head(5)
+        plt.figure(figsize=(16,8))
+        plt.subplot(2,2,1)
+        sns.distplot(data[col])
+        plt.subplot(2,2,2)
+        sns.boxplot(data[col])
+        plt.subplot(2,2,3)
+        sns.distplot(df[col])
+        plt.subplot(2,2,4)
+        sns.boxplot(df[col])
+        plt.show()
     
     return df
 
