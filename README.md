@@ -1,10 +1,10 @@
-# ANÁLISIS DATOS DE ESTRUCTURA INTERNA DE NANOPARTÍCULAS DE ORO: 🌕🌟🌕
+# ANÁLISIS DE DATOS DE ESTRUCTURA INTERNA DE NANOPARTÍCULAS DE ORO: 🌕🌟🌕
 
 ![imagen_intro](img/imagen_intro.png)
 
 ---
 
-##  The Bridge | Digital Talent Accelerator Bootcamp Data Science
+## The Bridge | Digital Talent Accelerator Bootcamp Data Science
 
 ## EDA (*Análisis exploratorio de datos*)
 
