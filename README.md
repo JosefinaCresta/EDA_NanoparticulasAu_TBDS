@@ -38,6 +38,7 @@ Específicamente se busca calcular estadísticamente los siguientes valores y se
      * Matplotlib y Seaborn:: especializada en la creación de gráficos.
      * Funciones propias: Para análisis estadísticos de normalidad, detección de outliers, cualculo de medias muestrales y correlaciones.
 3. Jupyter Nootebook: Para desarrollo de los análisis. [Notebook Pricipal](https://github.com/JosefinaCresta/EDA_NanoparticulasAu_TBDS/blob/master/src/EDA.ipynb)
+4. Overleaf LaTex: Para la escritura del informe. [PDF](https://github.com/JosefinaCresta/EDA_NanoparticulasAu_TBDS/blob/master/EDA_NanoparticulasAu_Memoria.pdf)
 ---
 ### Presentación
 [Slides.com](https://slides.com/joficresta/copy-of-end)
