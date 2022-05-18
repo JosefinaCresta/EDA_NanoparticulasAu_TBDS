@@ -1,5 +1,5 @@
 # ANÁLISIS DE DATOS DE ESTRUCTURA INTERNA DE NANOPARTÍCULAS DE ORO: 🌕🌟🌕
-[.ipynb](https://github.com/JosefinaCresta/EDA_NanoparticulasAu_TBDS/blob/master/src/EDA.ipynb) [PDF](https://github.com/JosefinaCresta/EDA_NanoparticulasAu_TBDS/blob/master/EDA_NanoparticulasAu_Memoria.pdf)
+[.ipynb](https://github.com/JosefinaCresta/EDA_NanoparticulasAu_TBDS/blob/master/src/EDA.ipynb) || [PDF](https://github.com/JosefinaCresta/EDA_NanoparticulasAu_TBDS/blob/master/EDA_NanoparticulasAu_Memoria.pdf)
 ![imagen_intro](img/imagen_intro.png) 
 
 ---
