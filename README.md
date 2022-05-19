@@ -41,7 +41,7 @@ Específicamente se busca calcular estadísticamente los siguientes valores y se
 4. Overleaf LaTex: Para la escritura del informe. [PDF](https://github.com/JosefinaCresta/EDA_NanoparticulasAu_TBDS/blob/master/EDA_NanoparticulasAu_Memoria.pdf)
 ---
 ### Presentación
-[Slides.com](https://slides.com/joficresta/copy-of-end](https://slides.com/joficresta/copy-of-end)
+[Slides.com](https://slides.com/joficresta/copy-of-end)
  
  
  
